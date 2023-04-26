@@ -1,0 +1,14 @@
+form{
+    width: 45%;
+    margin: 2em auto;
+    text-align: center;
+}
+
+.alinhamento_titulo{
+    width: 100%;
+    text-align: center;
+}
+form input{
+    padding: 0.5em;
+    margin: 0.2em;
+}
